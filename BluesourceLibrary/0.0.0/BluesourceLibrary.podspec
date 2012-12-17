@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BluesourceLibrary"
-  s.version      = "trunk"
+  s.version      = "0.0.0"
   s.homepage 	  = "http://test.com"  
   s.summary      = "Sammelstelle für alles Sammelwerte"
   s.author       = { "Simon Moser" => "sm@bluesource.at" }
