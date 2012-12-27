@@ -10,5 +10,6 @@ Pod::Spec.new do |s|
   s.source_files = 'Classes', '**/*.{h,m}'
   s.framework   = 'CoreData'
   s.requires_arc = false
+  s.dependency     'iCarousel', '1.7.2' 
 end
 
